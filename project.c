@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : project.c
- Author      : 
+ Author      : Abdelrahman Hassan
  Version     :
  Copyright   : Your copyright notice
  Description : Hello World in C, Ansi-style
