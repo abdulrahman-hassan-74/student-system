@@ -37,18 +37,6 @@ Each student record contains:
 
 ---
 
-## 🖥️ How to Run
-1. Compile the program using `gcc` (or any C compiler):
-   ```bash
-   gcc project.c -o student_mgmt
-   ```
-2. Run the program:
-   ```bash
-   ./student_mgmt
-   ```
-
----
-
 ## 📜 Menu Options
 When you run the program, the following menu appears:
 
